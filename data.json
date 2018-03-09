@@ -1,0 +1,11 @@
+{
+    "shoes": [
+        {
+            "name": "blue",
+            "price": 125,
+            "availability": 55,
+            "colour": ""
+        },
+        {"name": "mew"}
+    ]
+}
