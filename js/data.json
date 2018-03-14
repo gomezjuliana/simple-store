@@ -1,0 +1,100 @@
+{
+  "header": {
+      "logo_url": "./assets/logo.png",
+      "menu": ["Item menu", "Another item menu", "Item menu here", "item menu", "another item"],
+      "background_img": "./assets/Image-hero.jpg",
+      "banner_text": "Free Hearts, Always Free"
+  },
+  "shoes": [
+      {
+        "name": "Yeah!",
+        "price": 125,
+        "availability": 32,
+        "colour": "magenta",
+        "style": "street",
+        "SKU": 3722912746,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-1.jpg"
+      },
+      {
+        "name": "My Boo",
+        "price": 247,
+        "availability": 32,
+        "colour": "ice blue",
+        "style": "yoga",
+        "SKU": 1958443364,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-2.jpg"
+      },
+      {
+        "name": "Confessions Part II",
+        "price": 136,
+        "availability": 32,
+        "colour": "lime green",
+        "style": "flying",
+        "SKU": 1958443364,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-3.jpg"
+      },
+      {
+        "name": "Love in This Club",
+        "price": 258,
+        "availability": 32,
+        "colour": "purple",
+        "style": "gym",
+        "SKU": 7281408021,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-4.jpg"
+      },
+      {
+        "name": "U Remind Me",
+        "price": 280,
+        "availability": 32,
+        "colour": "black",
+        "style": "running",
+        "SKU": 7668807667,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-5.jpg"
+      },
+      {
+        "name": "OMG",
+        "price": 256,
+        "availability": 32,
+        "colour": "yellow",
+        "style": "yoga",
+        "SKU": 567137592,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-6.jpg"
+      },
+      {
+        "name": "Same Girl",
+        "price": 348,
+        "availability": 32,
+        "colour": "orange",
+        "style": "beach",
+        "SKU": 700520758,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-7.jpg"
+      },
+      {
+        "name": "Caught Up",
+        "price": 381,
+        "availability": 32,
+        "colour": "red",
+        "style": "street",
+        "SKU": 844321579,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-8.jpg"
+      },
+      {
+        "name": "U Don't Have to Call",
+        "price": 304,
+        "availability": 32,
+        "colour": "turquoise",
+        "style": "soaring",
+        "SKU": 902818121,
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "img": "./assets/products/Product-9.jpg"
+      }
+    ]
+}
