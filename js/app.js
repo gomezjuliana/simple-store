@@ -1,9 +1,5 @@
-(function(){fetch('/assets/data.json').then(res => res.json()).then(buildApp)})();
+(function(){fetch('data.json').then(res => res.json()).then(sayHi)})();
 
 function sayHi(res) {
     console.log(res);
 }
-
-function buildApp (
-  if (!data) return 'meow'
-)
