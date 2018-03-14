@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'Gotham Medium';
+  src: url("./assets/tipography/Gotham-Medium.otf") format("opentype")
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  margin: 0;
+}
+
+.menu-hamburger__img {
+  height: 30px;
+  width: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: absolute;
+  right: 31px;
+}
+
+.menu-hamburger {
+  display: inline;
+
+}
+
+.menu-modal {
+  display: none;
+}
+
+.image-container {
+  position: relative;
+  overflow: hidden;
+  height: 200px;
+}
+
+.hero-image {
+  position: relative;
+  left: -112px;
+  width: 129%;
+}
+
+.header-lead {
+  height: 113px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.header-lead__img {
+  width: 260px;
+}
+
+.tagline {
+  height: 60px;
+  background-color: black;
+  font-family: 'Gotham Medium', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.tagline__text {
+  text-transform: uppercase;
+  font-size: 26px;
+  font-weight: 200;
+  padding-top: 15px;
+}
