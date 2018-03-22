@@ -8,10 +8,10 @@
 </head>
 <body>
 
-    <header class="site-header">
+    <header class="header">
       <div class="header-lead">
-        <img src="./styles/assets/Logo.png" class="header-lead__img">
-        <div class="menu-hamburger"><img src="./styles/assets/hamburger.png" class="menu-hamburger__img"></div>
+        <img src="./styles/assets/Logo.png" class="header-lead__logo">
+        <div class="menu"><img src="./styles/assets/hamburger.png" class="menu__hamburger"></div>
         <div class="menu-modal">
           <ul>
             <li>Item menu</li>
@@ -23,13 +23,37 @@
         </div>
       </div>
 
-      <div class="image-container"><img src="./styles/assets/Image-hero.jpg" class="hero-image"></div>
+      <div class="hero"><img src="./styles/assets/Image-hero.jpg" class="hero__image"></div>
       <div class="tagline"><h3 class="tagline__text">Free Hearts, Always Free</h3></div>
     </header>
 
-    <section class="store"></section>
+    <section class="store">
+      <div class="store-hgroup">
+        <h3 class="store-hgroup__title">A super title or something else here</h5>
+        <h6 class="store-hgroup__count">125 products</h6>
+      </div>
 
-    <footer class="site-footer"></footer>
+      <article class="display">
+        <div class="display__product-img">
+          <img src="./styles/assets/products/Product-1.jpg">
+        </div>
+        <p class="display__availability">32/50</p>
+        <div class="product">
+          <h5 class="product__name">Name product here</h5>
+          <h4 class="product__price">$125</h4>
+          <p class="product__more">+ More</p>
+        </div>
+      </article>
+
+      <div class="tease">
+        <h5 class="tease__text">Load More Products</h5>
+        <span class="tease__underline"></span>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <span>Something here all rights reserved - 2018</span>
+    </footer>
 
 
 <script src="/js/header.js"></script>
